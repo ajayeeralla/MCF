@@ -1,7 +1,7 @@
 # Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
 src/secrecy_auth_DH/webpages/coqdoc/* linguist-vendored
 src/secrecy_auth_DH/webpages/coqdoc/* linguist-vendored
-src/secrecy_auth_DH/webpages/coqdoc/* linguist-documentation
-src/secrecy_auth_DH/webpages/coqdoc/* linguist-documentation
-src/secrecy_auth_DH/webpages/coqdoc/*.v linguist-detectable=false
-src/secrecy_auth_DH/webpages/coqdoc/*.v linguist-detectable=false
+#src/secrecy_auth_DH/webpages/coqdoc/* linguist-documentation
+#src/secrecy_auth_DH/webpages/coqdoc/* linguist-documentation
+src/secrecy_auth_DH/webpages/coqdoc/*.html linguist-detectable=false
+src/secrecy_auth_DH/webpages/coqdoc/*.html linguist-detectable=false
