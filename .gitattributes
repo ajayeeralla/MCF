@@ -1,7 +1,7 @@
 
 
-src/secrecy_auth_DH/webpages/coqdoc linguist-vendored
-src/secrecy_auth_DH/webpages/coqdoc linguist-vendored
+**/coqdoc/* linguist-vendored
+#src/secrecy_auth_DH/webpages/coqdoc linguist-vendored
 #src/secrecy_auth_DH/webpages/coqdoc linguist-documentation
 #src/secrecy_auth_DH/webpages/coqdoc linguist-documentation
 #src/secrecy_auth_DH/webpages/coqdoc/*.html linguist-detectable=false
