@@ -2,7 +2,7 @@
 
 We formalized the proofs of real-or-random secrecy and authentication properties of the Diffie-Hellman (DH) and the Station-to-Station (STS) protocol respectively in the [Coq proof assistant](https://coq.inria.fr/).
 
-This work has been submitted to the journal of ACM Transactions on Computational Logic and it is under review now.
+[//]: # This work has been submitted to the journal of ACM Transactions on Computational Logic and it is under review now.
 
 **Note:** exa_b.v represents an Example a.b in the paper.
 
@@ -37,6 +37,10 @@ This work has been submitted to the journal of ACM Transactions on Computational
   > coqdoc --html --toc --coqlib http://coq.inria.fr/stdlib/ -d _dirname_ *.v
   ```
 * The directory webpages/coqdoc contains all the html files of the corresponding .v files
+
+## Publications
+* Gergei Bana, Rohit Chadha, Ajay Kumar Eeralla, Mitsuhiro Okada:
+[Verification Methods for the Computationally Complete Symbolic Attacker Based on Indistinguishability](https://dl.acm.org/doi/10.1145/3343508). ACM Transactions on Computational Logic 21(1): 2:1-2:44 (2020)
 
 ## Authors
 
