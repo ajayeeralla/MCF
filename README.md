@@ -1,2 +1,2 @@
 # MCF
-Mechanized proofs of Computationally Complete Symbolic Attacker (CCSA) framework
+Machine-checked proofs of Computationally Complete Symbolic Attacker (CCSA) framework
